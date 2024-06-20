@@ -1,1 +1,1 @@
-# mov
+# movie-catalog
